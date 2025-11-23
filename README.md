@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Dummy Developer
+# 👋 Hi, I'm Boğaç
 
 💻 Java & Spring Boot Backend Developer  
 ⚛️ React + TypeScript Frontend Developer  
-
----
 
 ## 🚀 About Me
 
